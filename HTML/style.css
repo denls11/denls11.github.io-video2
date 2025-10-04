@@ -8,7 +8,7 @@
 }
 
 .section1{
-    background: url(/img/background.png);
+    background: url(HTML/img/background.png);
     max-height: 830px;
 }
 
@@ -690,4 +690,5 @@ hr{
 
 .footer-button:hover{
     background-color: rgb(19, 83, 245);
+
 }
