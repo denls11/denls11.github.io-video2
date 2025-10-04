@@ -8,7 +8,7 @@
 }
 
 .section1{
-    background: url(HTML/img/background.png);
+    background: url(img/background.png);
     max-height: 830px;
 }
 
@@ -692,3 +692,4 @@ hr{
     background-color: rgb(19, 83, 245);
 
 }
+
