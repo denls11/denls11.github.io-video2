@@ -383,7 +383,7 @@ li{
 
 .section4{
     margin-top: 60px;
-    background: url(/img/background-section4.png);
+    background: url(img/background-section4.png);
     min-height: 500px;
 }
 
@@ -591,7 +591,7 @@ hr{
 
 /* секция-7 */
 .footer{
-    background: url(/img/background-section4.png);
+    background: url(img/background-section4.png);
     min-height: 300px;
 }
 
@@ -692,4 +692,5 @@ hr{
     background-color: rgb(19, 83, 245);
 
 }
+
 
